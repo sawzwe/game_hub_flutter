@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "593380721659",
+    "project_id": "code-camp-flutter-b231a",
+    "storage_bucket": "code-camp-flutter-b231a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593380721659:android:375cf1d411c5dd13dc415e",
+        "android_client_info": {
+          "package_name": "com.example.tictactoe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDin3It9e190_iMo8Vk5Ce7uZ1tYV8zlHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
